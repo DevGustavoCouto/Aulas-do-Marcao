@@ -1,5 +1,3 @@
-e//atividade 1
-
 #include "WiFi.h"
 
 void setup() {
